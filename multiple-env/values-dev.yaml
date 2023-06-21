@@ -1,6 +1,0 @@
-configfilename: application.proprties
-env: dev
-imagename: nginx
-
-hpa:
-  enabled: false
